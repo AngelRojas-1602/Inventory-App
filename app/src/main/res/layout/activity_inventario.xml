@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".InventarioActivity">
+
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="696dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/Botones"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:text="INVENTARIO" />
+
+        <Spinner
+            android:id="@+id/spinner_filter_inventory"
+            android:layout_width="212dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8sp"
+            android:layout_marginLeft="24sp"
+            android:layout_marginBottom="8sp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_product_list_inventory"
+            android:layout_width="match_parent"
+            android:layout_height="582dp" />
+
+        <Button
+            android:id="@+id/btn_filtro"
+            android:layout_width="249dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/Botones"
+            android:text="Filtrar" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

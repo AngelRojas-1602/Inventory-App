@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Inventarios</string>
+
+    <string name="textView1">APLICACION INVENTARIOS</string>
+
+    <string name="txtView_1">Aplicación de Inventarios</string>
+    <string name="textView2">Escoger Tienda</string>
+    <string name="textView3">Zona de Reportes</string>
+    <string name="textView4">Reportes Generados</string>
+    <string name="btn_resolver">Resolver Reporte</string>
+
+    <string name="btn_modificar">Modificar</string>
+
+    <string name="btn_add">Agregar Producto</string>
+    <string name="btn_search">Buscar Producto</string>
+    <string name="btn_report">Reportar Producto</string>
+    <string name="btn_act_bd">Actualizar Base de Datos</string>
+    <string name="btn_modify">Modificar Producto</string>
+    <string name="btn_inventory">Inventario</string>
+    <string name="btn_extra">Perfil</string>
+
+    <string name="btn_next">Buscar</string>
+    <string name="btn_buscar_categoria">Departamento</string>
+    <string name="btn_buscar_reportar">Reportar</string>
+
+    <string name="btn_modificar_producto">Agregar Producto</string>
+    <string name="btn_eliminar_producto">Eliminar Producto</string>
+
+    <string name="et_codigo_producto">Codigo</string>
+    <string name="et_nombre_producto">Nombre del Producto</string>
+    <string name="et_cantidad_producto">Cantidad (Peso)</string>
+    <string name="et_stock_producto">Stock</string>
+
+    <string name="tv_producto_nombre">Nombre del Producto</string>
+    <string name="tv_producto_codigo">Código:</string>
+    <string name="tv_producto_cantidad">Cantidad: </string>
+    <string name="tv_producto_stock">Stock</string>
+
+    <string name="tv_busqueda_title">Buscar Producto</string>
+    <string name="et_search_product">Nombre del Producto</string>
+    <string-array name="spinner_options">
+        <item>Sin Departamento</item>
+        <item>Chocolate</item>
+        <item>Mole</item>
+        <item>Mezcal</item>
+    </string-array>
+
+    <string-array name="spinner_options_tienda">
+        <item>Santa Rosa</item>
+        <item>Brenamiel</item>
+        <item>Bodega SR</item>
+    </string-array>
+
+    <string name="editTextEmailAddress">Correo Electronico</string>
+    <string name="editTextPassword">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrarse</string>
+
+    <string name="rbtn_SantaRosa">Santa Rosa</string>
+    <string name="rbtn_Brenamiel">Brenamiel</string>
+    <string name="btn_seleccionar_tienda">Seleccionar</string>
+
+    <string name="btn_zona_reporte1">Generar Reporte</string>
+    <string name="btn_zona_reporte2">Reportes Generados</string>
+
+    <string name="tv_generate_report">Generar Reporte</string>
+    <string name="et_name">Nombre del Producto</string>
+    <string name="tv_stock_question">¿Cuántos tienes en stock?</string>
+    <string name="et_stock_quantity">Cantidad en stock</string>
+    <string name="btn_accept">Aceptar</string>
+
+    <string name="tv_codigo_producto">Codigo</string>
+
+    <string name="tv_act_BaseD">Actualizar Inventario</string>
+    <string name="tv_bd_question">¿Que quieres Hacer?</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_update">Actualizar</string>
+
+    <string name="btn_buscar_checkin">Checar</string>
+
+</resources>

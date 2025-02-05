@@ -1,0 +1,87 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.InventoryAndroid.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/Botones</item>
+        <item name="colorPrimaryVariant">@color/otros</item>
+        <item name="colorOnPrimary">@color/LetrasBotones</item>
+
+        <item name="colorSecondary">@color/Letras</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Fondo y texto -->
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="android:textColor">@color/Letras</item>
+
+        <!-- Widgets -->
+        <item name="buttonStyle">@style/CustomButtonDark</item>
+        <item name="editTextStyle">@style/et_codigo_producto</item>
+    </style>
+
+    <!-- Estilo personalizado para botones -->
+    <style name="CustomButtonDark" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/Botones</item>
+        <item name="android:textColor">@color/LetrasBotones</item>
+    </style>
+
+    <!-- Estilo personalizado para EditText -->
+    <style name="et_codigo_producto">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_nombre_producto -->
+    <style name="et_nombre_producto">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_cantidad_producto -->
+    <style name="et_cantidad_producto">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_stock_producto -->
+    <style name="et_stock_producto">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_search_product -->
+    <style name="et_search_product">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para editTextEmailAddress -->
+    <style name="editTextEmailAddress">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para editTextPassword -->
+    <style name="editTextPassword">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_name -->
+    <style name="et_name">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para et_stock_quantity -->
+    <style name="et_stock_quantity">
+        <item name="android:backgroundTint">@color/otros</item>
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+    <!-- Estilo para TextView -->
+    <style name="CustomTextViewDark" >
+        <item name="android:textColor">@color/Letras</item>
+    </style>
+
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".PerfilActivity">
+
+    <!-- Campo de nombre de usuario -->
+    <LinearLayout
+        android:layout_width="346dp"
+        android:layout_height="548dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32sp"
+            android:text="Perfil"
+            android:textAlignment="center"
+            android:textColor="@color/Botones"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Nombre (s)"
+            android:textColor="@color/Botones"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/et_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Nombre"
+            android:inputType="text"
+
+            android:textColor="#821131"
+            android:textColorHint="#821131" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Apelido (s)"
+            android:textColor="@color/Botones"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/et_userlastname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Apellido"
+            android:inputType="text"
+
+            android:textColor="#821131"
+            android:textColorHint="#821131" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Correo electronico"
+            android:textColor="@color/Botones"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Correo electronico"
+            android:inputType="text"
+            android:padding="12dp"
+            android:textColor="#821131"
+            android:textColorHint="#821131" />
+
+        <Button
+            android:id="@+id/btn_accept"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#C75B7A"
+            android:text="Aceptar"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#C75B7A"
+            android:text="Cerrar Sesion"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <!-- Campo de contraseña -->
+
+    <!-- Botón Aceptar -->
+
+    <!-- Botón Cancelar -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

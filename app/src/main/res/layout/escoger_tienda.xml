@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4D9D0"
+    android:layout_gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="411dp"
+        android:layout_height="599dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.315">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="36sp"
+            android:fontFamily="sans-serif-medium"
+            android:text="@string/textView2"
+            android:textColor="#921A40"
+            android:textSize="45sp" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="277dp"
+            android:gravity="center">
+
+            <RadioButton
+                android:id="@+id/rbtn_SantaRosa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="60dp"
+                android:text="@string/rbtn_SantaRosa"
+                android:textAlignment="center"
+                android:textColor="#C75B7A"
+                android:textSize="34sp"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rbtn_Brenamiel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/rbtn_Brenamiel"
+                android:textAlignment="center"
+                android:textColor="#C75B7A"
+                android:textSize="34sp"
+                android:textStyle="bold" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btn_seleccionar_tienda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:backgroundTint="@color/Letras"
+            android:text="@string/btn_seleccionar_tienda" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

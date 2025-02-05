@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".ModificarActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Modificar Producto"
+            android:textColor="@color/Botones"
+            android:textAlignment="center"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Codigo" />
+
+        <EditText
+            android:id="@+id/et_codigo_producto"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Código"
+            android:inputType="text"
+            android:padding="12dp"
+            android:textColor="#C75B7A"
+            android:textColorHint="#C75B7A" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Nombre del Producto" />
+
+        <EditText
+            android:id="@+id/et_nombre_producto"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Nombre del Producto"
+            android:padding="12dp"
+            android:textColor="#C75B7A"
+            android:textColorHint="#C75B7A" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Cantidad (Peso)" />
+
+        <EditText
+            android:id="@+id/et_cantidad_producto"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Cantidad (Peso)"
+            android:inputType="text"
+            android:padding="12dp"
+            android:textColor="#C75B7A"
+            android:textColorHint="#C75B7A" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Stock" />
+
+        <EditText
+            android:id="@+id/et_stock_producto"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            android:hint="Stock"
+            android:inputType="number"
+            android:padding="12dp"
+            android:textColor="#C75B7A"
+            android:textColorHint="#C75B7A" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Departamento" />
+
+        <Spinner
+            android:id="@+id/spinner_filter"
+            android:layout_width="250sp"
+            android:layout_height="40sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/Letras"
+            android:textSize="18sp"
+            android:text="Tienda" />
+
+        <Spinner
+            android:id="@+id/spinner_filter_tienda"
+            android:layout_width="250sp"
+            android:layout_height="40sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#C75B7A"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/btn_modificar_producto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:backgroundTint="#C75B7A"
+            android:text="Modificar Producto"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

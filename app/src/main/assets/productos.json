@@ -1,0 +1,3522 @@
+[
+  {
+    "codigo": "181",
+    "nombre": "Cubre Bocas KN95",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "335",
+    "nombre": "Cucharas De Madera",
+    "cantidad": "23",
+    "stock": 23,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "174",
+    "nombre": "Curado De Mezcal Fruta Borracha",
+    "cantidad": "1 Lt",
+    "stock": 6,
+    "categoria": "La Fruta Borracha",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "175",
+    "nombre": "Curado De Mezcal Fruta Borracha",
+    "cantidad": "500 Ml",
+    "stock": 14,
+    "categoria": "La Fruta Borracha",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "461",
+    "nombre": "Curado De Mezcal Casa Jimenez Bracamontes",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "542",
+    "nombre": "Delfinita Pan De Yema Grande",
+    "cantidad": "1.3 Kg",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "541",
+    "nombre": "Delfinita Pan De Yema Jumbo",
+    "cantidad": "1.5 Kg",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "451",
+    "nombre": "Destapadores Alebrije",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "229",
+    "nombre": "Destapadores De Botella Y Barril",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "450",
+    "nombre": "Destapadores Oaxaca Gruesos",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "151",
+    "nombre": "Duraznos Enteros Sierra",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Descontinuado",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "319",
+    "nombre": "Ferrero Suelto",
+    "cantidad": "1 Pz",
+    "stock": 45,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7861002900117",
+    "nombre": "Ferrero 8 Pz",
+    "cantidad": "100 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "8000500246603",
+    "nombre": "Ferrero 11 Pz Coleccion",
+    "cantidad": "122 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "8000500227749",
+    "nombre": "Ferrero 12 Pz",
+    "cantidad": "150 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7898024390107",
+    "nombre": "Ferrero 16 Pz Baul",
+    "cantidad": "200 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "8000500236017",
+    "nombre": "Ferrero 2 Pz Corazon",
+    "cantidad": "25 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7898024395331",
+    "nombre": "Ferrero 24 Pz Diama",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "8000500116869",
+    "nombre": "Ferrero 8 Bol 3 Pz C/U",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "78909434",
+    "nombre": "Ferrero 3 Pz",
+    "cantidad": "37.5 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "80135906",
+    "nombre": "Ferrero 5 Pz",
+    "cantidad": "62.5 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "8000500248584",
+    "nombre": "Ferrero 7 Pz Corazon Coleccion",
+    "cantidad": "89.5 Gr",
+    "stock": 0,
+    "categoria": "Ferrero Rocher",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "354",
+    "nombre": "Figuras De Lata",
+    "cantidad": "0",
+    "stock": 3,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "464",
+    "nombre": "Galleta Domo Redondo",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "150",
+    "nombre": "Galleta Surtida Chica",
+    "cantidad": "1 Pz",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "149",
+    "nombre": "Galleta Surtida Grande",
+    "cantidad": "1 Pz",
+    "stock": 2,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "547",
+    "nombre": "Galleta Tartina Chica",
+    "cantidad": "1 Pz",
+    "stock": 6,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "546",
+    "nombre": "Galleta Tartina Grande",
+    "cantidad": "1 Pz",
+    "stock": 1,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "315",
+    "nombre": "Garapiñados & Granola",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "La Fruta Borracha",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "166",
+    "nombre": "Gomitas De Mezcal 100 Gr Canabis",
+    "cantidad": "100 Gr",
+    "stock": 5,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "216",
+    "nombre": "Gomitas De Mezcal 100 Gr Gomizcal",
+    "cantidad": "100 Gr",
+    "stock": 33,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "494",
+    "nombre": "HM Ancestral 4 Agaves Añejo 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 9,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "492",
+    "nombre": "HM Calavera 1 Lt",
+    "cantidad": "1 Lt",
+    "stock": 4,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "469",
+    "nombre": "HM Corazon Y Dulce De Maguey 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 12,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "493",
+    "nombre": "HM Corazon Y Dulce Maguey 375 Ml",
+    "cantidad": "375 Ml",
+    "stock": 7,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "518",
+    "nombre": "HM Coyote 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 8,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "329",
+    "nombre": "HM Cuishe Especialidad 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 4,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "488",
+    "nombre": "HM Cuishe Jumbo 1.750 Ml",
+    "cantidad": "1.750 Ml",
+    "stock": 2,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "517",
+    "nombre": "HM EROS 750 ML",
+    "cantidad": "750 ML",
+    "stock": 10,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "487",
+    "nombre": "HM Ensamble Cuishe Tepestate 750ml B.Negra",
+    "cantidad": "750 Ml",
+    "stock": 4,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "465",
+    "nombre": "HM Espadin Blanco Y Gusano 375 ML",
+    "cantidad": "375 ML",
+    "stock": 22,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "462",
+    "nombre": "HM Espadin Blanco Y Gusano 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 40,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "486",
+    "nombre": "HM Espadin Capon 375 Ml Cuadrada",
+    "cantidad": "375 Ml",
+    "stock": 37,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "139",
+    "nombre": "HM Espadin Capon 750 Ml Cuadrada",
+    "cantidad": "750 Ml",
+    "stock": 53,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "489",
+    "nombre": "HM Espadin Capon Jumbo 1.750ml",
+    "cantidad": "1.750 Ml",
+    "stock": 1,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "485",
+    "nombre": "HM Espadin Joven 375 Ml Cuadrada",
+    "cantidad": "375 Ml",
+    "stock": 20,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "140",
+    "nombre": "HM Espadin Joven 750 Ml Cuadrada",
+    "cantidad": "750 Ml",
+    "stock": 31,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "490",
+    "nombre": "HM Espadin Joven Jumbo 1.750 Ml",
+    "cantidad": "1.750 Ml",
+    "stock": 1,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "264",
+    "nombre": "HM Espadin O Gusano 50 ML",
+    "cantidad": "50 ML",
+    "stock": 4,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "491",
+    "nombre": "HM Espadin Rep. Pechuga Y Gusano 375 Ml",
+    "cantidad": "375 Ml",
+    "stock": 23,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "468",
+    "nombre": "HM Espadin Rep. Pechuga Y Gusano 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 29,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "509",
+    "nombre": "HM Mexicano De 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 11,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "516",
+    "nombre": "HM Sierra Negra 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 12,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "467",
+    "nombre": "HM Suenos,Pasion, Secretos 750 Ml Especialidad",
+    "cantidad": "750 Ml",
+    "stock": 31,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "466",
+    "nombre": "HM Sueños,Pasion,Secretos 375 Ml Especialidad",
+    "cantidad": "375 Ml",
+    "stock": 40,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "508",
+    "nombre": "HM Tepestate 375 Ml Especialidad",
+    "cantidad": "375 Ml",
+    "stock": 12,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "507",
+    "nombre": "HM Tepeztate 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 5,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "515",
+    "nombre": "HM Tobala 52 Grados",
+    "cantidad": "52 Gr",
+    "stock": 7,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "463",
+    "nombre": "HM Tobala Especialidad 750 Ml",
+    "cantidad": "750 Ml",
+    "stock": 23,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "261",
+    "nombre": "Habanero Con Trozos De Piña Asada",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "262",
+    "nombre": "Habanero Rajas En Escabeche",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "258",
+    "nombre": "Habanero Rajas Piña Y Escabeche",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "257",
+    "nombre": "Habanero Salsa Con Piña Y Cilantro",
+    "cantidad": "390 Gr",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024548712",
+    "nombre": "Hershey´s Almendras",
+    "cantidad": "72 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024546411",
+    "nombre": "Hershey´s Cereza",
+    "cantidad": "32 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024546138",
+    "nombre": "Hershey´s Cereza",
+    "cantidad": "120 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024595754",
+    "nombre": "Hershey´s Chocolate Con Leche",
+    "cantidad": "45.80 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024597222",
+    "nombre": "Hershey´s Chocolate Con Leche",
+    "cantidad": "45.80 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024598229",
+    "nombre": "Hershey´s Chocolate Con Leche",
+    "cantidad": "76.00 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024548651",
+    "nombre": "Hershey´s Chocolate Con Leche",
+    "cantidad": "167.20 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "474",
+    "nombre": "Hershey´s Chocolate Sabores",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "475",
+    "nombre": "Hershey´s Chocolate Sabores",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024595761",
+    "nombre": "Hershey´s Cookies",
+    "cantidad": "121.80 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024599318",
+    "nombre": "Hershey´s Hearts",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024577057",
+    "nombre": "Hershey´s Jarabe Chocolate",
+    "cantidad": "453 Ml",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024577064",
+    "nombre": "Hershey´s Jarabe Fresa",
+    "cantidad": "453 Ml",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024595532",
+    "nombre": "Hershey´s Surtido",
+    "cantidad": "86.50 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024595556",
+    "nombre": "Hershey´s Surtido",
+    "cantidad": "136.60 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024546190",
+    "nombre": "Hershey´s Trufa",
+    "cantidad": "120 Gr",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936108",
+    "nombre": "Horchata Plazita",
+    "cantidad": "120 Gr",
+    "stock": 2,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326146299",
+    "nombre": "Horchata Diabetex Plazita",
+    "cantidad": "320 Gr",
+    "stock": 8,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012679",
+    "nombre": "Horchata Plazita",
+    "cantidad": "320 Gr",
+    "stock": 8,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012662",
+    "nombre": "Horchata Plazita",
+    "cantidad": "640 Gr",
+    "stock": 3,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "399",
+    "nombre": "Imanes Oaxaca Chicos",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "449",
+    "nombre": "Imanes Oaxaca Grandes",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "448",
+    "nombre": "Imanes Oaxaca Medianos",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326034435",
+    "nombre": "Jamaica Plazita",
+    "cantidad": "100 Gr",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012709",
+    "nombre": "Jamaica Plazita",
+    "cantidad": "320 Gr",
+    "stock": 5,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "75003260127161",
+    "nombre": "Jamaica Plazita",
+    "cantidad": "640 Gr",
+    "stock": 4,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "323",
+    "nombre": "Jarro Artesanal Con Flores",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "105",
+    "nombre": "Jarro Chico 13.5 Cm",
+    "cantidad": "",
+    "stock": 11,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "109",
+    "nombre": "Jarro Grande",
+    "cantidad": "",
+    "stock": 29,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "326",
+    "nombre": "Jarro Jumbo",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "106",
+    "nombre": "Jarro Mediano",
+    "cantidad": "",
+    "stock": 24,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "535",
+    "nombre": "Jarro Mini",
+    "cantidad": "",
+    "stock": 9,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "254",
+    "nombre": "Jicaras Chicas Caladas",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "226",
+    "nombre": "Jicaras Natural Sin Color Chica",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "442",
+    "nombre": "Jicaras Rojas Y Color Grandes",
+    "cantidad": "",
+    "stock": 23,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "285",
+    "nombre": "Jicaras Rojas Y Color Chicas Pz",
+    "cantidad": "",
+    "stock": 59,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501055342198",
+    "nombre": "Jugo De Valle",
+    "cantidad": "355ml",
+    "stock": 29,
+    "categoria": "Coca Cola Company",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501055330683",
+    "nombre": "Jugo Del Valle Frut",
+    "cantidad": "600 Ml",
+    "stock": 3,
+    "categoria": "Coca Cola Company",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "349",
+    "nombre": "Juguetes Pirinola Y Balero",
+    "cantidad": "",
+    "stock": 6,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "232",
+    "nombre": "Juguetes Trompo, Yoyo Y Tablitas",
+    "cantidad": "",
+    "stock": 8,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "540",
+    "nombre": "Juguetes Valeritos",
+    "cantidad": "",
+    "stock": 1,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "426",
+    "nombre": "Juguetitos De Barro Verde",
+    "cantidad": "",
+    "stock": 12,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "432",
+    "nombre": "Juquilita Bolsa",
+    "cantidad": "1 Kg N,R,C",
+    "stock": 8,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "434",
+    "nombre": "Juquilita Bolsa",
+    "cantidad": "250 Grs N,R,C",
+    "stock": 0,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "433",
+    "nombre": "Juquilita Bolsa",
+    "cantidad": "500 Grs N,R,C",
+    "stock": 10,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "864806000028",
+    "nombre": "Juquilita Coloradito",
+    "cantidad": "1 Kg Envase",
+    "stock": 9,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "437",
+    "nombre": "Juquilita Coloradito",
+    "cantidad": "500 Gr Envase",
+    "stock": 10,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "864806000035",
+    "nombre": "Juquilita Negro",
+    "cantidad": "1 Kg Envase",
+    "stock": 6,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "435",
+    "nombre": "Juquilita Negro",
+    "cantidad": "500 Gr Envase",
+    "stock": 1,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "864806000042",
+    "nombre": "Juquilita Rojo",
+    "cantidad": "1 Kg Envase",
+    "stock": 2,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "436",
+    "nombre": "Juquilita Rojo",
+    "cantidad": "500 Gr Envase",
+    "stock": 0,
+    "categoria": "Juquilita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501024548972",
+    "nombre": "Kisses Pieza Suelta",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Hersheys",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510651001",
+    "nombre": "La Soledad Clasico",
+    "cantidad": "1.50 Kg",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510616109",
+    "nombre": "La Soledad Redondo",
+    "cantidad": "200 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510616208",
+    "nombre": "La Soledad Redondo",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510615300",
+    "nombre": "La Soledad Tablilla",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510615102",
+    "nombre": "La Soledad Tablilla",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510615201",
+    "nombre": "La Soledad Tablilla",
+    "cantidad": "600 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "96619417568",
+    "nombre": "Leche Kirkland Deslactosada",
+    "cantidad": "1 Lt",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501020515398",
+    "nombre": "Leche Lala Deslactosada",
+    "cantidad": "1 Lt",
+    "stock": 64,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501295600157",
+    "nombre": "Leche Santa Clara Deslactosada",
+    "cantidad": "1 Lt",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "233",
+    "nombre": "Ligas Para Cabello Muñequitos Artesanales",
+    "cantidad": " ",
+    "stock": 12,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "428",
+    "nombre": "Llavero Corazon Alebrije",
+    "cantidad": " ",
+    "stock": 1,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "447",
+    "nombre": "Llavero Corazon Alebrije Con Fleco",
+    "cantidad": " ",
+    "stock": 7,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "550",
+    "nombre": "Llavero Cuarzo Horoscopos",
+    "cantidad": " ",
+    "stock": 10,
+    "categoria": "Llaveros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "524",
+    "nombre": "Llavero De Encendedor De Cuero",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "440",
+    "nombre": "Llavero De Muñequita",
+    "cantidad": " ",
+    "stock": 31,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "552",
+    "nombre": "Llavero De Piedra",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Llaveros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "523",
+    "nombre": "Llavero De Tiliche Chico",
+    "cantidad": " ",
+    "stock": 9,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "510",
+    "nombre": "Llavero De Tiliche Grande",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "512",
+    "nombre": "Llaveros De Metal",
+    "cantidad": " ",
+    "stock": 8,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "289",
+    "nombre": "Llaveros Oaxaca Pz",
+    "cantidad": " ",
+    "stock": 232,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "268",
+    "nombre": "Mermelada De Piña",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503033983096",
+    "nombre": "Mermelada Naturasol Artesanal",
+    "cantidad": "870 Gr",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7506351811010",
+    "nombre": "Mezcal 400 Conejos",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "238",
+    "nombre": "Mezcal Casa Jimenez Bracamontes",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "391",
+    "nombre": "Mezcal Cuatro Quintos",
+    "cantidad": "250 Ml",
+    "stock": 4,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "390",
+    "nombre": "Mezcal Cuatro Quintos",
+    "cantidad": "700 Ml",
+    "stock": 10,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "218",
+    "nombre": "Mezcal Fruta Borracha",
+    "cantidad": "1 Lt",
+    "stock": 0,
+    "categoria": "La Fruta Borracha",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "133",
+    "nombre": "Mezcal Fruta Borracha",
+    "cantidad": "500 Ml",
+    "stock": 0,
+    "categoria": "La Fruta Borracha",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "159",
+    "nombre": "Mezcal Hasta La U Gota",
+    "cantidad": "50 Ml",
+    "stock": 204,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "137",
+    "nombre": "Mezcal Hasta La U Gota",
+    "cantidad": "1 Lt",
+    "stock": 75,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "136",
+    "nombre": "Mezcal Hasta La U Gota",
+    "cantidad": "250 Ml",
+    "stock": 70,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "131",
+    "nombre": "Mezcal Hasta La U Gota",
+    "cantidad": "500 Ml",
+    "stock": 47,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "194",
+    "nombre": "Mezcal Hasta La U Gota Tobala",
+    "cantidad": "1 Lt",
+    "stock": 12,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "192",
+    "nombre": "Mezcal La Gloria",
+    "cantidad": "200 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "193",
+    "nombre": "Mezcal La Gloria",
+    "cantidad": "375 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "5012345678900",
+    "nombre": "Mezcal La Gloria Cannabis",
+    "cantidad": "375 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "195",
+    "nombre": "Mezcal La Gloria",
+    "cantidad": "500 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "190",
+    "nombre": "Mezcal La Gloria Azul",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "191",
+    "nombre": "Mezcal La Gloria Especialidad",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "165",
+    "nombre": "Mezcal Mi Alma R",
+    "cantidad": "1 Lt",
+    "stock": 0,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "167",
+    "nombre": "Mezcal Mi Alma R Añejo",
+    "cantidad": "1 Lt",
+    "stock": 11,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "409",
+    "nombre": "Mezcal Mi Alma R C/Miel De Agave",
+    "cantidad": "375 Ml",
+    "stock": 5,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "376",
+    "nombre": "Mezcal Mi Alma R C/Miel De Agave",
+    "cantidad": "750 Ml",
+    "stock": 16,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326039317",
+    "nombre": "Mezcal Montelobos",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "713662000010",
+    "nombre": "Mezcal Oro De Oaxaca",
+    "cantidad": "1 Lt",
+    "stock": 26,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "713662000058",
+    "nombre": "Mezcal Oro De Oaxaca",
+    "cantidad": "250 Ml",
+    "stock": 2,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "713662000041",
+    "nombre": "Mezcal Oro De Oaxaca",
+    "cantidad": "500 Ml",
+    "stock": 12,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "713662000027",
+    "nombre": "Mezcal Oro De Oaxaca",
+    "cantidad": "750 Ml",
+    "stock": 14,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "223",
+    "nombre": "Mezcal Oro De Oaxaca Añejo 7 Años",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503029150006",
+    "nombre": "Mezcal Santo Gusano",
+    "cantidad": "750 Ml",
+    "stock": 0,
+    "categoria": "Mezcal",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "408",
+    "nombre": "Mezcal Silvestre Mi Alma Rota",
+    "cantidad": "750 Ml",
+    "stock": 25,
+    "categoria": "Mezcal El Oaxaqueño",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "270",
+    "nombre": "Miel Viva Oaxaca",
+    "cantidad": "1 Lt",
+    "stock": 21,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503008941007",
+    "nombre": "Miel Pepe Miel",
+    "cantidad": "1400 Gr",
+    "stock": 0,
+    "categoria": "Pepe Miel",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "271",
+    "nombre": "Miel Viva Oaxaca",
+    "cantidad": "1400 Gr",
+    "stock": 25,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503027793069",
+    "nombre": "Miel Pepe Miel",
+    "cantidad": "350 Gr",
+    "stock": 4,
+    "categoria": "Pepe Miel",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "334",
+    "nombre": "Miel Viva Oaxaca",
+    "cantidad": "375 Ml",
+    "stock": 33,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503008941045",
+    "nombre": "Miel Pepe Miel",
+    "cantidad": "700 Gr",
+    "stock": 5,
+    "categoria": "Pepe Miel",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "250",
+    "nombre": "Miel Viva Oaxaca",
+    "cantidad": "750 Ml",
+    "stock": 34,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "178",
+    "nombre": "Miel Viva Oaxaca Vidrio",
+    "cantidad": "970 Ml",
+    "stock": 0,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "120",
+    "nombre": "Miel De Agave Pepe Miel",
+    "cantidad": "350 Gr",
+    "stock": 2,
+    "categoria": "Pepe Miel",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "368",
+    "nombre": "Molcajete Barro Verde",
+    "cantidad": "$65.00",
+    "stock": 11,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "400",
+    "nombre": "Molcajete Mediano",
+    "cantidad": "Pza",
+    "stock": 1,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "2524013866142",
+    "nombre": "Mole Coloradito Zaadxil",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503013866173",
+    "nombre": "Mole Coloradito Zaadxil",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503013866128",
+    "nombre": "Mole Negro Zaadxil",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503013866159",
+    "nombre": "Mole Negro Zaadxil",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503013866135",
+    "nombre": "Mole Rojo Zaadxil",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503013866166",
+    "nombre": "Mole Rojo Zaadxil",
+    "cantidad": "500 Grs",
+    "stock": 0,
+    "categoria": "Zaadxil Mole",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M4",
+    "nombre": "Molienda Almendrada",
+    "cantidad": "M4",
+    "stock": 41.49,
+    "categoria": "Moliendas",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M2",
+    "nombre": "Molienda Clasica",
+    "cantidad": "M2",
+    "stock": 53.37,
+    "categoria": "Moliendas",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M1",
+    "nombre": "Molienda Economica",
+    "cantidad": "$75 1Kg",
+    "stock": 20.5,
+    "categoria": "Moliendas",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M3",
+    "nombre": "Molienda Semiamarga",
+    "cantidad": "M3",
+    "stock": 46.43,
+    "categoria": "Moliendas",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "260",
+    "nombre": "Molinillo Alebrije",
+    "cantidad": "",
+    "stock": 4,
+    "categoria": "Alebrijes",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "265",
+    "nombre": "Molinillo Chico",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "169",
+    "nombre": "Molinillo De Pluma",
+    "cantidad": "",
+    "stock": 9,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "116",
+    "nombre": "Molinillo Grande",
+    "cantidad": "",
+    "stock": 20,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "281",
+    "nombre": "Molinillo Mediano",
+    "cantidad": "",
+    "stock": 3,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "20",
+    "nombre": "Molletes",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "141",
+    "nombre": "Monedero De Telar",
+    "cantidad": "",
+    "stock": 61,
+    "categoria": "Telar",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "284",
+    "nombre": "Monederos De Palma",
+    "cantidad": "Pz",
+    "stock": 9,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "70847035916",
+    "nombre": "Monster Energy",
+    "cantidad": "473 Ml",
+    "stock": 0,
+    "categoria": "Coca Cola Company",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "479",
+    "nombre": "Muñeca Maria Con Diadema Chica",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "477",
+    "nombre": "Muñeca Maria Con Diadema Grande",
+    "cantidad": "",
+    "stock": 2,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "478",
+    "nombre": "Muñeca Maria Con Diadema Mediana",
+    "cantidad": "",
+    "stock": 3,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "388",
+    "nombre": "Muñeca Maria Grande",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "389",
+    "nombre": "Muñeca Maria Mediana",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "476",
+    "nombre": "Muñeca Maria Sombrero Grande",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "360",
+    "nombre": "Muñeca Porta Llaves",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "234",
+    "nombre": "Muñecas De Las 8 Regiones",
+    "cantidad": "",
+    "stock": 3,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "170",
+    "nombre": "Muñecos Movibles Figuras Chicos",
+    "cantidad": "",
+    "stock": 34,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "418",
+    "nombre": "Nuez Con Cascara Pza Suelta",
+    "cantidad": "",
+    "stock": 44,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "282",
+    "nombre": "Pala Madera Chica",
+    "cantidad": "",
+    "stock": 28,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "283",
+    "nombre": "Pala Madera Grande",
+    "cantidad": "",
+    "stock": 24,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "286",
+    "nombre": "Pala Madera Mediana",
+    "cantidad": "",
+    "stock": 12,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "3",
+    "nombre": "Pan De Cazuela",
+    "cantidad": "",
+    "stock": 37,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "23",
+    "nombre": "Pan De Cazuela Chico",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "6",
+    "nombre": "Pan De Mantequilla Grande",
+    "cantidad": "",
+    "stock": 46,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "24",
+    "nombre": "Pan De Mantequilla Jumbo",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "11",
+    "nombre": "Pan De Mantequilla Mediano",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "37",
+    "nombre": "Pan De Mantequilla",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "31",
+    "nombre": "Pan De Muerto",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "33",
+    "nombre": "Pan De Naranja Chico",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "PANADERO",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "35",
+    "nombre": "Pan De Naranja Grande",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "PANADERO",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "36",
+    "nombre": "Pan De Yema",
+    "cantidad": "",
+    "stock": 58,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "29",
+    "nombre": "Pan De Yema Bolsa",
+    "cantidad": "10 Pz",
+    "stock": 16,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "21",
+    "nombre": "Pan De Yema Chico",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "532",
+    "nombre": "Pan De Yema Tlacolula",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "533",
+    "nombre": "Pan De Yema Tlacolula",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "12",
+    "nombre": "Pan Mantequillita",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "18",
+    "nombre": "Pan Resobado Chico",
+    "cantidad": "10 Pzas",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "313",
+    "nombre": "Panela En Cono",
+    "cantidad": "2 Piezas",
+    "stock": 0,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "312",
+    "nombre": "Panela En Cuadros",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "16",
+    "nombre": "Panetone Arandano Nuez Y Chocolate",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "228",
+    "nombre": "Peines De Madera Sin Color",
+    "cantidad": "",
+    "stock": 2,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "537",
+    "nombre": "Piedra Molcajete Grande",
+    "cantidad": "",
+    "stock": 6,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "369",
+    "nombre": "Piedra Para Molcajete",
+    "cantidad": "",
+    "stock": 5,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "393",
+    "nombre": "Piedrita Roja Molcajetito",
+    "cantidad": "",
+    "stock": 8,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936368",
+    "nombre": "Pinole",
+    "cantidad": "320 Gr",
+    "stock": 4,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P221",
+    "nombre": "Pinole En Cono Colores",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P338",
+    "nombre": "Piñata Chica",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P350",
+    "nombre": "Piñata De Carton Grande",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P337",
+    "nombre": "Piñata De Olla Grande",
+    "cantidad": " ",
+    "stock": 4,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P217",
+    "nombre": "Platos De Barro Para Taza",
+    "cantidad": " ",
+    "stock": 9,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P179",
+    "nombre": "Playeras Oaxaca",
+    "cantidad": " ",
+    "stock": 10,
+    "categoria": "Telar",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P361",
+    "nombre": "Plumas De Tela",
+    "cantidad": " ",
+    "stock": 14,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P288",
+    "nombre": "Popote De Bambu Artesania",
+    "cantidad": " ",
+    "stock": 14,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P7501055329298",
+    "nombre": "Powerade",
+    "cantidad": "500 Ml",
+    "stock": 0,
+    "categoria": "Coca Cola Company",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P120",
+    "nombre": "Premium A Granel",
+    "cantidad": "1 Kg",
+    "stock": 10.97,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P521",
+    "nombre": "Pulceras Rojas Para Ojo",
+    "cantidad": " ",
+    "stock": 11,
+    "categoria": "Aretes Collares Pulseras",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P443",
+    "nombre": "Rodete Para Jicara Chica",
+    "cantidad": " ",
+    "stock": 9,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P300",
+    "nombre": "Rosca Chica",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Panaderia",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P7500326012716",
+    "nombre": "Sal De Chapulin",
+    "cantidad": "120 Gr",
+    "stock": 10,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P157",
+    "nombre": "Sal De Chapulin",
+    "cantidad": "125 Gr",
+    "stock": 0,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P345",
+    "nombre": "Sal De Chicatana",
+    "cantidad": "120 Gr",
+    "stock": 1,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P176",
+    "nombre": "Sal De Chile Gusano Chapulin Vaso",
+    "cantidad": "120 Gr",
+    "stock": 125,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P7501510670033",
+    "nombre": "Sal De Gusano",
+    "cantidad": "60 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "221",
+    "nombre": "Pinole En Cono Colores",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "338",
+    "nombre": "Piñata Chica",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "350",
+    "nombre": "Piñata De Carton Grande",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "337",
+    "nombre": "Piñata De Olla Grande",
+    "cantidad": "0",
+    "stock": 4,
+    "categoria": "Otros",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "217",
+    "nombre": "Platos De Barro Para Taza",
+    "cantidad": "0",
+    "stock": 9,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "179",
+    "nombre": "Playeras Oaxaca",
+    "cantidad": "0",
+    "stock": 10,
+    "categoria": "Telar",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "361",
+    "nombre": "Plumas De Tela",
+    "cantidad": "0",
+    "stock": 14,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "288",
+    "nombre": "Popote De Bambu Artesania",
+    "cantidad": "0",
+    "stock": 14,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501055329298",
+    "nombre": "Powerade",
+    "cantidad": "500 Ml",
+    "stock": 0,
+    "categoria": "Coca Cola Company",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "P-120",
+    "nombre": "Premium A Granel",
+    "cantidad": "1 Kg",
+    "stock": 10,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "521",
+    "nombre": "Pulceras Rojas Para Ojo",
+    "cantidad": "0",
+    "stock": 11,
+    "categoria": "Aretes Collares Pulseras",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "443",
+    "nombre": "Rodete Para Jicara Chica",
+    "cantidad": "0",
+    "stock": 9,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012716",
+    "nombre": "Sal De Chapulin",
+    "cantidad": "120 Gr",
+    "stock": 10,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "157",
+    "nombre": "Sal De Chapulin",
+    "cantidad": "125 Gr",
+    "stock": 0,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "345",
+    "nombre": "Sal De Chicatana",
+    "cantidad": "120 Gr",
+    "stock": 1,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "176",
+    "nombre": "Sal De Chile Gusano Chapulin",
+    "cantidad": "120 Gr",
+    "stock": 125,
+    "categoria": "Viva Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501510670033",
+    "nombre": "Sal De Gusano",
+    "cantidad": "60 Gr",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119086",
+    "nombre": "Sal De Gusano",
+    "cantidad": "70 Gr",
+    "stock": 13,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119949",
+    "nombre": "Sal De Gusano",
+    "cantidad": "80 Gr",
+    "stock": 3,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012730",
+    "nombre": "Sal De Gusano",
+    "cantidad": "120 Gr",
+    "stock": 14,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "156",
+    "nombre": "Sal De Gusano",
+    "cantidad": "125 Gr",
+    "stock": 2,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "122",
+    "nombre": "Sal De Gusano Caja 4 Pz",
+    "cantidad": " ",
+    "stock": 0,
+    "categoria": "Mezcal La Gloria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503027080473",
+    "nombre": "Salsa De Chapulin Mixsu",
+    "cantidad": "125g",
+    "stock": 12,
+    "categoria": "Mixsu",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503027080466",
+    "nombre": "Salsa De Chicatana Mixsu",
+    "cantidad": "125g",
+    "stock": 5,
+    "categoria": "Mixsu",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119710",
+    "nombre": "Salsa El Sabor Chapulin",
+    "cantidad": "50 Ml",
+    "stock": 6,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119741",
+    "nombre": "Salsa El Sabor Gusanito",
+    "cantidad": "50 Ml",
+    "stock": 14,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119703",
+    "nombre": "Salsa El Sabor Chapulin",
+    "cantidad": "150 Ml",
+    "stock": 2,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119734",
+    "nombre": "Salsa El Sabor Gusanito",
+    "cantidad": "150 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503026626030",
+    "nombre": "Salsa El Sabor Oaxaqueña",
+    "cantidad": "150 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119697",
+    "nombre": "Salsa El Sabor Chapulin",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119727",
+    "nombre": "Salsa El Sabor Gusanito",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119024",
+    "nombre": "Salsa La Tradicion Chapulin",
+    "cantidad": "50 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119055",
+    "nombre": "Salsa La Tradicion Gusanito",
+    "cantidad": "50 Ml",
+    "stock": 7,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119017",
+    "nombre": "Salsa La Tradicion Chapulin",
+    "cantidad": "150 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119048",
+    "nombre": "Salsa La Tradicion Gusanito",
+    "cantidad": "150 Ml",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119000",
+    "nombre": "Salsa La Tradicion Chapulin",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119031",
+    "nombre": "Salsa La Tradicion Gusanito",
+    "cantidad": "250 Gr",
+    "stock": 0,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "263",
+    "nombre": "Salsa Macha De Habanero",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Habanero",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119765",
+    "nombre": "Salsa Macha El Sabor Cacahuate",
+    "cantidad": "250 Gr",
+    "stock": 11,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503026626160",
+    "nombre": "Salsa Macha El Sabor Chapulines",
+    "cantidad": "250 Gr",
+    "stock": 10,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119789",
+    "nombre": "Salsa Macha El Sabor Mango Y Chipotle",
+    "cantidad": "250 Gr",
+    "stock": 9,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119758",
+    "nombre": "Salsa Macha El Sabor Semillas Y Aceite De Oliva",
+    "cantidad": "250 Gr",
+    "stock": 14,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119772",
+    "nombre": "Salsa Macha El Sabor Tamarindo Y Chipotle",
+    "cantidad": "250 Gr",
+    "stock": 8,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "153",
+    "nombre": "Salsa Macha Fandango Chapulines",
+    "cantidad": "125 Gr",
+    "stock": 0,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "154",
+    "nombre": "Salsa Macha Fandango Chicatana",
+    "cantidad": "125 Gr",
+    "stock": 8,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "155",
+    "nombre": "Salsa Macha Fandango Gourmet Chapulin",
+    "cantidad": "125 Gr",
+    "stock": 5,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503007841650",
+    "nombre": "Salsa Macha Salchita",
+    "cantidad": "300 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022119062",
+    "nombre": "Salsa Macha Tradicion",
+    "cantidad": "235 Gr",
+    "stock": 11,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012792",
+    "nombre": "Salsa Plazita Chapulin Plastico",
+    "cantidad": "250 Ml",
+    "stock": 2,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936092",
+    "nombre": "Salsa Plazita Chapulin Vidrio",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936177",
+    "nombre": "Salsa Plazita Gusanito Plastico",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936184",
+    "nombre": "Salsa Plazita Gusanito Vidrio",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012808",
+    "nombre": "Salsa Plazita Chile Morita Plastico",
+    "cantidad": "250 Ml",
+    "stock": 5,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012785",
+    "nombre": "Salsa Plazita Gusanito Plastico",
+    "cantidad": "250 Ml",
+    "stock": 2,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936030",
+    "nombre": "Salsa Plazita Gusanito Vidrio",
+    "cantidad": "250 Ml",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503019936818",
+    "nombre": "Salsa Plazita Habanero",
+    "cantidad": "250 Ml",
+    "stock": 6,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417533",
+    "nombre": "Salsa Salchita Chapulines",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417526",
+    "nombre": "Salsa Salchita Chile Chipotle",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417489",
+    "nombre": "Salsa Salchita Chile De Arbol",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417519",
+    "nombre": "Salsa Salchita Chile Habanero",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417502",
+    "nombre": "Salsa Salchita Chile Pasilla",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417557",
+    "nombre": "Salsa Salchita Verde Asada",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503022417564",
+    "nombre": "Salsa Salchita Verde Con Aguacate",
+    "cantidad": "360 Gr",
+    "stock": 0,
+    "categoria": "Salchita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503027080688",
+    "nombre": "Salsa de Gusanito Mixsu",
+    "cantidad": "125g",
+    "stock": 8,
+    "categoria": "Mixsu",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "392",
+    "nombre": "Salsera De Barro De 3 Pzas",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "536",
+    "nombre": "Salsera Ovalada Mediana",
+    "cantidad": "",
+    "stock": 4,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "385",
+    "nombre": "Salseras Ovalada Chica",
+    "cantidad": "",
+    "stock": 6,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M15",
+    "nombre": "Semi Amargo Bola Bote",
+    "cantidad": "30 Pz",
+    "stock": 0,
+    "categoria": "Cacao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "M16",
+    "nombre": "Semi Amargo Bola Suelta",
+    "cantidad": "40 Gr",
+    "stock": 0,
+    "categoria": "Cacao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "378",
+    "nombre": "Semillas De",
+    "cantidad": "100 Grs",
+    "stock": 16,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "213",
+    "nombre": "Separadores Alebrije Pintados",
+    "cantidad": "",
+    "stock": 15,
+    "categoria": "Alebrijes",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "287",
+    "nombre": "Separadores Artesanias",
+    "cantidad": "",
+    "stock": 63,
+    "categoria": "Madera",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "210",
+    "nombre": "Servilletas Artesanales Mitla",
+    "cantidad": "",
+    "stock": 349,
+    "categoria": "Telar",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "310",
+    "nombre": "Servilleteros De Barro Negro",
+    "cantidad": "",
+    "stock": 14,
+    "categoria": "Barro Negro",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "511",
+    "nombre": "Servilleteros De Palma",
+    "cantidad": "",
+    "stock": 7,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503008941144",
+    "nombre": "Shampoo Con Miel Pepe Miel",
+    "cantidad": "240 Ml",
+    "stock": 0,
+    "categoria": "Pepe Miel",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "20842092933",
+    "nombre": "Sicao Amargo",
+    "cantidad": "1 Kg 70% Cacao",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "2084209475",
+    "nombre": "Sicao Chispa Blanco",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "20842074489",
+    "nombre": "Sicao Chispa Semiamargo",
+    "cantidad": "500 Gr",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "20842058311",
+    "nombre": "Sicao Cocoa",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "2084209381",
+    "nombre": "Sicao Granillo",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "20842057246",
+    "nombre": "Sicao Semiamargo 52% Cacao",
+    "cantidad": "1 Kg",
+    "stock": 0,
+    "categoria": "Sicao",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "253",
+    "nombre": "Sombreros De Colores",
+    "cantidad": "",
+    "stock": 6,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "410",
+    "nombre": "Sombreros De Colores Pintados",
+    "cantidad": "",
+    "stock": 8,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "158",
+    "nombre": "Soplador De Plastico",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Artesanias",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "134",
+    "nombre": "Sopladores Palma Grande",
+    "cantidad": "",
+    "stock": 8,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "138",
+    "nombre": "Tacita Y Platito Margarita Chica",
+    "cantidad": "$18",
+    "stock": 10,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "384",
+    "nombre": "Tacita Y Platito Minis",
+    "cantidad": "$15.00",
+    "stock": 12,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "425",
+    "nombre": "Tacita y Platito Marg Medianita",
+    "cantidad": "$20",
+    "stock": 4,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "306",
+    "nombre": "Tamarindo Plazita",
+    "cantidad": "100 Gr",
+    "stock": 0,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012723",
+    "nombre": "Tamarindo Plazita",
+    "cantidad": "320 Gr",
+    "stock": 2,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "75003260127301",
+    "nombre": "Tamarindo Plazita",
+    "cantidad": "640 Gr",
+    "stock": 2,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "104",
+    "nombre": "Tapa Malteada",
+    "cantidad": "12 Oz",
+    "stock": 76,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "110",
+    "nombre": "Tapa Termico",
+    "cantidad": "12 Oz",
+    "stock": 46,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500463791413",
+    "nombre": "Tarujito De Tamarindo",
+    "cantidad": "50 Gr",
+    "stock": 0,
+    "categoria": "Fandango",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001108666",
+    "nombre": "Taza Ajolote",
+    "cantidad": "",
+    "stock": 14,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001107515",
+    "nombre": "Taza Amor",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "171421000327",
+    "nombre": "Taza Calavera Papel Picado",
+    "cantidad": "",
+    "stock": 15,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001123119",
+    "nombre": "Taza Catrina Grande",
+    "cantidad": "",
+    "stock": 16,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001108635",
+    "nombre": "Taza Corazon Mi Chocolate",
+    "cantidad": "",
+    "stock": 2,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "107",
+    "nombre": "Taza Flores Oaxaca",
+    "cantidad": "",
+    "stock": 1,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001108659",
+    "nombre": "Taza Frida Kalo",
+    "cantidad": "",
+    "stock": 2,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001207437",
+    "nombre": "Taza Gato Enamorado",
+    "cantidad": "",
+    "stock": 7,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001106211",
+    "nombre": "Taza Gato Grande",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001106136",
+    "nombre": "Taza Gato Kawai Grande",
+    "cantidad": "",
+    "stock": 1,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001108413",
+    "nombre": "Taza Gato Redonda",
+    "cantidad": "",
+    "stock": 11,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001105856",
+    "nombre": "Taza Mexico Grande",
+    "cantidad": "",
+    "stock": 0,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001107911",
+    "nombre": "Taza Mexico Redonda",
+    "cantidad": "",
+    "stock": 1,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001107751",
+    "nombre": "Taza Muñeca Lele",
+    "cantidad": "",
+    "stock": 2,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "187001103555",
+    "nombre": "Taza Muñecas Chica",
+    "cantidad": "",
+    "stock": 8,
+    "categoria": "Taza Decorada",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "538",
+    "nombre": "Taza Y Plato Boca Grande",
+    "cantidad": "8",
+    "stock": 8,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "539",
+    "nombre": "Taza Y Plato Boca Mediano",
+    "cantidad": "11",
+    "stock": 11,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "534",
+    "nombre": "Tazas Barro Verde Grande",
+    "cantidad": "10",
+    "stock": 10,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "422",
+    "nombre": "Tazas Barro Verde Mediana",
+    "cantidad": "8",
+    "stock": 8,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7501058655110",
+    "nombre": "Tazas De Chocolate Abuelita",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "La Soledad",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "112",
+    "nombre": "Tazas Margarita Barro Gde",
+    "cantidad": "13",
+    "stock": 13,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326034428",
+    "nombre": "Tejate 120 Gr Plazita",
+    "cantidad": "120 Gr",
+    "stock": 1,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326146282",
+    "nombre": "Tejate 320 Gr Diabetex Plazita",
+    "cantidad": "320 Gr",
+    "stock": 7,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012686",
+    "nombre": "Tejate 320 Gr Plazita",
+    "cantidad": "320 Gr",
+    "stock": 10,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7500326012693",
+    "nombre": "Tejate 640 Gr Plazita",
+    "cantidad": "640 Gr",
+    "stock": 16,
+    "categoria": "La Plazita",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "219",
+    "nombre": "Tenates De Palma C/Tapa",
+    "cantidad": "2",
+    "stock": 2,
+    "categoria": "Palma",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "273",
+    "nombre": "Tostadas De La Sierra",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "163",
+    "nombre": "Tostadas Medianas 7 Pzas",
+    "cantidad": "4",
+    "stock": 4,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "222",
+    "nombre": "Tostadas Planas",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "272",
+    "nombre": "Totopos Del Istmo Bolsa",
+    "cantidad": "0",
+    "stock": 0,
+    "categoria": "Productos Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "401",
+    "nombre": "Trastecitos Barro Verde Chicos (Jarr, Caz, Olla, Molcajetito Etc)",
+    "cantidad": "34",
+    "stock": 34,
+    "categoria": "Barro Verde",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503026626313",
+    "nombre": "Trio De Salsas El Sabor",
+    "cantidad": "19",
+    "stock": 19,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503031887860",
+    "nombre": "Trio De Salsas Habaneras",
+    "cantidad": "12",
+    "stock": 12,
+    "categoria": "El Sabor de Oaxaca",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "102",
+    "nombre": "Vaso Malteada 12 Oz",
+    "cantidad": "12 Oz",
+    "stock": 139,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "103",
+    "nombre": "Vaso Termico 12 Oz",
+    "cantidad": "12 Oz",
+    "stock": 64,
+    "categoria": "Insumos",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "499",
+    "nombre": "Verde Olico 750 Ml Canabis",
+    "cantidad": "750 Ml",
+    "stock": 11,
+    "categoria": "Herencia Milenaria",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064006",
+    "nombre": "Xocco 50% Cacao Barra 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064136",
+    "nombre": "Xocco 50% Cacao Bolsa 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064020",
+    "nombre": "Xocco 70% Cacao Barra 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064143",
+    "nombre": "Xocco 70% Cacao Bolsa 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064044",
+    "nombre": "Xocco 80% Cacao Barra 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064037",
+    "nombre": "Xocco 98% Cacao Barra 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 1,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064129",
+    "nombre": "Xocco Milk 240 Gr Xocco",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064150",
+    "nombre": "Xocco Nibs De Cacao 240 Gr",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  },
+  {
+    "codigo": "7503036064167",
+    "nombre": "Xocco Oax 240 Gr Barra 80% Cacao",
+    "cantidad": "240 Gr",
+    "stock": 0,
+    "categoria": "Xocco Oax",
+    "tienda": "Santa Rosa",
+    "checkin": false
+  }
+]
+
